@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stack Bot</string>
+    <string name="a11y_desc">Lets Stack Bot perform taps on the screen to play the game.</string>
+</resources>
